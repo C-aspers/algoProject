@@ -36,17 +36,17 @@ Résous le sujet 2 avec une complexité algorithmique de O(n²), c'est-à-dire q
 Résous le sujet 1 avec une complexité algorithmique de O(n), c'est-à-dire que ton programme pourra parcourir plusieurs fois chaque élément du tableau (mais pas de boucle imbriquée !).
 
 2.3.4. Exercice 4
-Résous le sujet 2 avec une complexité algorithmique de O(n), c'est-à-dire que ton programme pourra parcourir plusieurs fois chaque élément du tableau (mais pas de boucle imbriquée !).
+  Résous le sujet 2 avec une complexité algorithmique de O(n), c'est-à-dire que ton programme pourra parcourir plusieurs fois chaque élément du tableau (mais pas de    boucle imbriquée !).
 
 2.3.5. Exercice 5
-Résous le sujet 1 en ne faisant qu'un seul passage sur ta liste.
+  Résous le sujet 1 en ne faisant qu'un seul passage sur ta liste.
 
-Si tu réussis cet exercice, sache qu'il a été posé en entretien par Google. Tu peux postuler à Google. La classe, non ?
+  Si tu réussis cet exercice, sache qu'il a été posé en entretien par Google. Tu peux postuler à Google. La classe, non ?
 
 2.3.6. Exercice 6
-Résous le sujet 2 en ne faisant qu'un seul passage sur ta liste.
+  Résous le sujet 2 en ne faisant qu'un seul passage sur ta liste.
 
-Si tu réussis cet exercice, sache qu'il a été posé en entretien par Mailchimp. Tu peux postuler à Mailchimp. La classe, non ?
+  Si tu réussis cet exercice, sache qu'il a été posé en entretien par Mailchimp. Tu peux postuler à Mailchimp. La classe, non ?
 
 3. Rendu attendu
-6 programmes, contenant tes magnifiques algorithmes codés avec amour.
+  6 programmes, contenant tes magnifiques algorithmes codés avec amour.
